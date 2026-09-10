@@ -19,18 +19,38 @@ Includes all forms of water on earth.
 The water circulates through the environment with the hydrological cycle,
 connecting atmosphere, land, and water bodies.
 
-__Importance of the Hydrosphere__: 
+__Importance of the Hydrosphere:__ 
 - Supports aquatic life
 - Essential for agriculture
 - Regulates climate
 - Provides water for human needs (drinking, sanitation, industry)
 
-__Importance of the Hydrosphere__: 
+__Threats to the Hydrosphere:__ 
 - Water pollution
 - Overuse of freshwater
 - Ocean acidification
 
 ### Lithosphere
+The outer rocky part of the earth that's also known as the
+crust.
+
+__Layers of earth:__
+- Crust
+- Asthenosphere
+- Mantle
+- Outer core
+- Inner core
+
+__Functions of the Lithosphere:__ 
+- Foundation for terrestrial ecosystems
+- Source of soil, minerals, and land
+- Supports mining, agriculture and construction
+- Provides habitats for land-based species
+
+__Environmental Issues:__ 
+- Soil erosion
+- Deforestation
+- Land degredation and desertification in vulnerable regions
 
 ### Atmosphere
 
